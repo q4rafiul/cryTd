@@ -1,0 +1,11 @@
+{
+  "exchange": "binance",
+  "symbol": "BTCUSDT",
+  "intervals": ["30m", "1h", "4h", "1d"],
+  "start": "2024-01-01",
+  "end": "2024-01-10",
+  "mode": "backtest",
+  "investment": 1000,
+  "fee": 0.001,
+  "bots": ["bot_bot1", "bot_bot2"]
+}
